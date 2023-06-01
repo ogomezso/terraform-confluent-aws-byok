@@ -1,3 +1,3 @@
 output "byok" {
-  value = confluent_byok_key.main
+  value = confluent_byok_key.byok
 }
